@@ -3,7 +3,7 @@ library(ggplot2)
 library(dplyr)
 library(Hmisc)
 
-eye_ori <- read.csv("L:\\Students\\SPan\\Deng\\outcome.csv")
+eye_ori <- read.csv("outcome.csv")
 
 eye <- eye_ori[1:58,]
 
