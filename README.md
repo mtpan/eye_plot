@@ -1,6 +1,6 @@
-# eye_plot
+# Forest plot
 
-#### Some plots created using base R graphics. The code used to generate these plots can be found in this folder. No actual data included. 
+#### Some forest plots created using base R graphics. The code used to generate these plots can be found in this folder. No actual data included. 
 
 
 ![](https://github.com/mtpan/eye_plot/blob/master/eye_success.png)
